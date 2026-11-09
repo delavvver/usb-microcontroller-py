@@ -49,3 +49,10 @@
 
 <img width="575" height="346" alt="{5082D709-269A-41FC-83F0-781E919E54B4}" src="https://github.com/user-attachments/assets/4e048c1f-1f3b-4e3b-975b-d5c5385db57b" />
 </details>
+</details>
+<summary><b>Вывод</b></summary>
+<img width="994" height="747" alt="{AF60B6C5-E065-4E85-83A9-A049B61016EF}" src="https://github.com/user-attachments/assets/657c4acf-806a-4014-be74-1f2e573a48e8" />
+<img width="1002" height="744" alt="{D9D0DA47-D953-4623-8782-6EC8B5E7FE00}" src="https://github.com/user-attachments/assets/76e3501a-8e26-4089-87ee-1136df539ba2" />
+</details>
+
+
