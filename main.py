@@ -1,11 +1,12 @@
 import sys
-
+from ui.styles import MAIN_STYLE
 from PySide6.QtWidgets import QApplication, QMessageBox
 from serial import SerialException
 
 from window import MainWindow
 
 app = QApplication(sys.argv)
+app.setStyleSheet(MAIN_STYLE)
 
 try:
     window = MainWindow()
